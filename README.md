@@ -1,4 +1,6 @@
-**Name of Program** '/n'
+**Name of Program** 
+
+
 MadLibs Assignment - Have the program read a file that creates a game of MadLibs
 Initialize
 What items need to be initialized at the beginning of the program? Importing something? Defining a file name?
@@ -6,8 +8,11 @@ Creating an empty list or dictionary? Etc.
 - Creating an empty list called ‘Sentences’
 - Importing Random to randomize the sentences chosen
 - Setting a variable, ‘Text’, to be the name of the MadLib file
-- 
+  
 **Functions**
+
+
+
 ● MadLibsFile - It takes the MadLib file and an empty list called ‘Sentences’, The function returns a list of
 each sentence appended to the list
 ● ComputerWants- It takes the list of sentences and returns one of them as a random choice
