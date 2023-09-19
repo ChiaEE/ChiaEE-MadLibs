@@ -18,7 +18,9 @@ each sentence appended to the list
 
 
 
+
 ● ComputerWants- It takes the list of sentences and returns one of them as a random choice
+
 
 
 
@@ -27,9 +29,13 @@ will be replaced
 
 
 
+
 ● PromptChange- Takes the Random Choice of sentence and the list of words in brackets to make a
 dictionary where the elements of a list are the keys and user's input is the value. Replaces the word if
 it matches the dictionary keys with the key's value and returns the new sentence.
+
+
+
 
 **Control Flows**
 What control flows will you need to use and how? Will you need conditionals? What will they do? While loops?
