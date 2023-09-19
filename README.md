@@ -1,4 +1,4 @@
-**Name of Program**
+**Name of Program** '/n'
 MadLibs Assignment - Have the program read a file that creates a game of MadLibs
 Initialize
 What items need to be initialized at the beginning of the program? Importing something? Defining a file name?
